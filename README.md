@@ -7,6 +7,7 @@ If you only want to translate your book follow steps 2-5. The additional steps a
 
 **1.** Install [PRS-Plus](https://github.com/natowi/prs-plus)
   * For the PRS-650 download [this](https://github.com/natowi/prs-plus/blob/master/downloads/PRSP_650_2.1.02alpha.zip) and run the .exe on a Windows machine. No need to do anything else on a Windows machine from here on.
+  
 **2.** Convert your EPub to a .txt file either with the following command [Calibre](https://manual.calibre-ebook.com/conversion.html) or use the command line
 ```sh
 ebook-convert yourbook.epub stillyourbook.txt
