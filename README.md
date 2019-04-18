@@ -1,6 +1,6 @@
 # EPub to Dictionary Conversion
 
-This repository contains code examples for converting .epub books to a dictionary file (in this case xdxf) for use in Sony PRS e-readers. Most of the old PRS e-readers do not have a wireless connection and therefore there is no possibility to use other languages than the already pre-installed ones.
+This repository contains code examples for converting EPub books to a dictionary file for use in Sony PRS e-readers (or any other E-Reader with support for custom dictionaries). 
 
 ## Step by step Guide
 If you only want to translate your book follow steps 2-5. The additional steps are for users owning a PRS-650 E-Reader
